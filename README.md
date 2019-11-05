@@ -12,6 +12,7 @@ The dataset is no longer available due to copyright issues
 
 The face detector SFD is available at: 
 https://github.com/sfzhang15/SFD
+another python face detector http://dlib.net/cnn_face_detector.py.html
 
 The face detector NPD is available at: 
 http://www.openpr.org.cn/index.php/109-NPD-Face-Detector-Training/View-details.html
